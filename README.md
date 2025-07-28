@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" width="100" alt="Tech Icon" />
+  <img src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" width="120" alt="Data Nerd" />
 </p>
 
 <h1 align="center">
@@ -7,103 +7,107 @@
 </h1>
 
 <h3 align="center">
-  🌟 Data Enthusiast | 💻 Full-Stack Developer | ☁️ Cloud Explorer | 📍 Toronto, ON
+  📍 Toronto, ON | 🧠 Data Enthusiast | 📊 Tableau + Power BI Explorer | 🤖 AI Adventurer
 </h3>
 
----
-
-### 🌟 About Me
-
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
-
-- 👩‍💻 Data Analyst in training — strong grip on **Python**, **SQL**, and **visualization tools** like Tableau & Cognos.
-- ⚙️ Developed dashboards using **Laravel + Firebase**, and web apps with **Django & SQLite**.
-- 📊 I love discovering insights in messy data and building intuitive dashboards.
-- ☁️ Certified in **Azure Fundamentals** | Pursuing **Azure AI** & **IBM Data Analyst** credentials.
-- 🐍 Currently deep-diving into **Pandas**, **Seaborn**, **Plotly**, and **Dash**.
-- 💡 Lifelong learner. Strong believer in clean UI, team power & meaningful iteration.
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
+</p>
 
 ---
 
-### 🧰 Tech Toolbox
+### 🔍 About Me
 
-| 💻 **Languages**  | 🧱 **Frameworks**  | 📊 **Data Tools**        | ☁️ **Cloud/DevOps**   | 🧩 **Project Tools**         |
-|------------------|-------------------|--------------------------|-----------------------|------------------------------|
-| Python 🐍         | Django 🚀         | IBM Cognos 📈            | Azure ☁️             | Trello 📋, Lucidchart 🧠     |
-| SQL 🧪            | Laravel 🌐        | Tableau 📊, Excel 📘      | Azure AI (Studying) 🔧 | Agile (Scrum/Kanban) 🏃‍♀️   |
-| HTML/CSS 🎨       |                   | SQLite 🗂, Jupyter 📓     |                       | Canva 🎨                    |
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240"/>
 
----
-
-### 🛠️ My Favorite Projects
-
-#### ☕ **Coffee Cup Data Analysis**
-<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="100" align="right" />
-
-- 🔍 Detected 20% customer churn due to inventory issues
-- 📊 Created an interactive **Tableau** dashboard for churn rate, product trends
-- 👥 Led a team of 4 for quality deliverables
+- 👩‍💻 **Data Analyst in training** with a solid foundation in **Python**, **SQL**, and **data storytelling**
+- 📊 Skilled in **Tableau**, **Power BI**, and **IBM Cognos** for interactive dashboarding and business intelligence
+- 🛠️ Built real-world web dashboards using **Laravel + Firebase** and **Django**
+- ☁️ **Microsoft Azure Certified** — currently diving deeper into **Azure AI** and IBM Data Science ecosystem
+- 🔍 Passionate about **data cleaning**, **visual analytics**, and turning raw numbers into real business insights
+- 🌱 Always learning — exploring `Pandas`, `Seaborn`, `Plotly`, `Dash`, and cloud-native ML tools
 
 ---
 
-#### 📡 **Telecom Management System**
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" align="right" />
+### 🧰 My Tech Toolbox
 
-- 📱 Compared providers by plans, price & coverage
-- 🔐 Built secure front-end & back-end
-- 📈 Boosted usability by 30% via stakeholder feedback
-
----
-
-#### 📦 **Milk Dashboard – Laravel + Firebase**
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" align="right" />
-
-- 🥛 Real-time visualization of dairy sales & profits
-- 📄 PDF reports, Firebase data sync — reduced manual tasks by 50%
-- 📲 Increased mobile traffic by 25%
+| 🔣 Languages     | ⚙️ Tools & Libraries    | 📊 BI & Dashboarding       | ☁️ Cloud & DevOps        | 📁 Project Tools           |
+|------------------|-------------------------|-----------------------------|--------------------------|-----------------------------|
+| Python 🐍         | Pandas, Numpy, Matplotlib | Tableau 📈, Power BI 📊     | Azure ☁️, IBM Cloud 💻   | Trello 🗂, Lucidchart 🧠     |
+| SQL 💾            | Seaborn, Plotly, Dash     | IBM Cognos Analytics 📉     | Azure AI (in progress) 🤖 | Agile (Scrum/Kanban) 🧩      |
+| HTML / CSS 🎨     | Jupyter, VS Code         | Excel 📘, Google Sheets 📊   | Firebase 🔥               | Canva 🎨                   |
 
 ---
 
-### 📚 Education & Certifications
+### 🚀 Featured Projects
 
-🎓 **Post-Grad: AI & Data Analytics**  
+#### 🧃 **Coffee Cup Churn Dashboard**
+<img align="right" src="https://media.giphy.com/media/3orieYTOsmCk6RZRIk/giphy.gif" width="140" />
+
+- 📊 Tableau dashboard tracking KPIs like churn, inventory & product trends  
+- 🔍 Discovered 20% churn tied to inventory gaps  
+- 👥 Led a cross-functional team of 4 for analytics and UX testing  
+
+---
+
+#### 📶 **Telecom Management System**
+<img align="right" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140" />
+
+- 📱 Compared providers by price, plan & coverage  
+- 🔐 Built secure full-stack app using Django  
+- 📈 Increased platform usability by 30% with user-centered design  
+
+---
+
+#### 🥛 **Dairy Sales Dashboard (Laravel + Firebase)**
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" />
+
+- 📦 Visualized real-time milk sales, profit & trends  
+- 📄 Enabled PDF export, Firebase auto-sync — reduced manual work by 50%  
+- 🌐 Boosted mobile traffic by 25% with a responsive frontend  
+
+---
+
+### 🎓 Education & Certifications
+
+🎓 **Postgraduate in AI & Data Analytics**  
 🕒 *Durham College, Toronto* | *Jan 2023 – Sept 2024*
 
-🎓 **Bachelor's in Computer Science & Engineering**  
+🎓 **Bachelor’s in Computer Science & Engineering**  
 🏫 *Rajiv Gandhi Institute of Technology, Bengaluru* | *2018–2022*
 
 📜 **Certifications:**
-- ✅ Microsoft Azure Fundamentals (AZ-900)
-- 🧠 IBM Data Analyst (in progress)
-- 🤖 Microsoft Azure AI Fundamentals (in progress)
-- 🎯 Junior Data Analyst – NPower Canada (2025)
+- ✅ Microsoft Azure Fundamentals – AZ-900  
+- 🔄 IBM Data Analyst Certificate (in progress)  
+- 🤖 Microsoft Azure AI Fundamentals (in progress)  
+- 🚀 Junior Data Analyst Program – NPower Canada (2025)
 
 ---
 
-### 🤝 Let’s Connect!
+### 📬 Let’s Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simrah-ayan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:simrahayan2611@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-simrahayan2611@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/simrahayan">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Starscorpio">
+    <img src="https://img.shields.io/badge/GitHub-Starscorpio-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🌈 Fun Motto:
-> *“Turning data into stories, and insights into impact.”* ✨📊💡
+### 💬 Fun Fact
+
+> 🌈 *“Data doesn’t lie. It tells the story—you just need to listen well.”*
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/l3vRn6G2JpFctC3gI/giphy.gif" width="180" />
 </p>
-
