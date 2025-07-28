@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  🌟 Data Enthusiast | 💻 Full-Stack Developer | 🧠 AI Enthusiast & 📈 Data Analyst | 📍 Toronto, ON
+  🌟 Data Enthusiast | 🧠 AI Enthusiast & 📈 Data Analyst | 📍 Toronto, ON
 </h3>
 
 ---
