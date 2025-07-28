@@ -1,104 +1,108 @@
-<h1 align="center">👋 Hi there, I'm Simrah Ayan Fathima</h1>
-<h3 align="center">📊 Data Analyst | 🧠 AI Explorer | 📍 Toronto, ON</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180" alt="coding-gif"/>
+  <img src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" width="100" alt="Tech Icon" />
 </p>
+
+<h1 align="center">
+  <b>Hey there! 👋 I'm <span style="color:#F39C12;">Simrah Ayan Fathima</span></b>
+</h1>
+
+<h3 align="center">
+  🌟 Data Enthusiast | 💻 Full-Stack Developer | 🧠 AI Enthusiast & 📈 Data Analyst | 📍 Toronto, ON
+</h3>
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me
 
-🎓 Data Analyst in training, passionate about making data-driven decisions come to life  
-📊 Skilled in **Tableau**, **Power BI**, **IBM Cognos**, **Excel**, and **Python**  
-📡 Exploring **AI & cloud analytics** with Microsoft Azure + IBM Data Science  
-💡 I turn raw data into engaging stories & insights that matter  
-🎯 Currently mastering Python libraries like `Pandas`, `Plotly`, `Seaborn`, `Dash`  
-💬 I thrive on collaboration, clean code, and building intuitive user experiences
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+
+- 👩‍💻 Data Analyst in training — strong grip on **Python**, **SQL**, and **visualization tools** like Tableau & Cognos.
+- ⚙️ Developed dashboards using **Laravel + Firebase**, and web apps with **Django & SQLite**.
+- 📊 I love discovering insights in messy data and building intuitive dashboards.
+- ☁️ Certified in **Azure Fundamentals** | Pursuing **Azure AI** & **IBM Data Analyst** credentials.
+- 🐍 Currently deep-diving into **Pandas**, **Seaborn**, **Plotly**, and **Dash**.
+- 💡 Lifelong learner. Strong believer in clean UI, team power & meaningful iteration.
 
 ---
 
-### 🧰 Tech Stack (At a Glance)
+### 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/IBM%20Cognos-05122A?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+| 💻 **Languages**  | 🧱 **Frameworks**  | 📊 **Data Tools**        | ☁️ **Cloud/DevOps**   | 🧩 **Project Tools**         |
+|------------------|-------------------|--------------------------|-----------------------|------------------------------|
+| Python 🐍         | Django 🚀         | IBM Cognos 📈            | Azure ☁️             | Trello 📋, Lucidchart 🧠     |
+| SQL 🧪            | Laravel 🌐        | Tableau 📊, Excel 📘      | Azure AI (Studying) 🔧 | Agile (Scrum/Kanban) 🏃‍♀️   |
+| HTML/CSS 🎨       |                   | SQLite 🗂, Jupyter 📓     |                       | Canva 🎨                    |
 
-#### 🧾 Detailed Tech Stack
+---
 
-| Category         | Tools & Technologies                                                                 |
-|------------------|--------------------------------------------------------------------------------------|
-| **Languages**    | Python 🐍, SQL 💾, HTML/CSS 🎨                                                       |
-| **Libraries**    | Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash                                     |
-| **BI & Viz**     | Tableau 📊, Power BI 📈, IBM Cognos Analytics 📉, Excel 📘                            |
-| **Frameworks**   | Django 🌐, Laravel 🛠, Firebase 🔥                                                    |
-| **Cloud & AI**   | Azure (AZ-900 ✅), Azure AI (in progress) ☁️, IBM Watson tools                        |
-| **Tools**        | Jupyter Notebook 📒, VS Code 🖥, Trello 📋, Lucidchart 🧠, Canva 🎨                    |
-| **Soft Skills**  | Leadership 🌟, Communication 💬, Team Collaboration 👥, Problem-Solving 🧩            |
+### 🛠️ My Favorite Projects
+
+#### ☕ **Coffee Cup Data Analysis**
+<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="100" align="right" />
+
+- 🔍 Detected 20% customer churn due to inventory issues
+- 📊 Created an interactive **Tableau** dashboard for churn rate, product trends
+- 👥 Led a team of 4 for quality deliverables
+
+---
+
+#### 📡 **Telecom Management System**
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" align="right" />
+
+- 📱 Compared providers by plans, price & coverage
+- 🔐 Built secure front-end & back-end
+- 📈 Boosted usability by 30% via stakeholder feedback
+
+---
+
+#### 📦 **Milk Dashboard – Laravel + Firebase**
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" align="right" />
+
+- 🥛 Real-time visualization of dairy sales & profits
+- 📄 PDF reports, Firebase data sync — reduced manual tasks by 50%
+- 📲 Increased mobile traffic by 25%
 
 ---
 
 ### 📚 Education & Certifications
 
-🎓 **Postgrad in AI & Data Analytics** — Durham College *(Jan 2023 – Sept 2024)*  
-🎓 **Bachelor's in CS & Engineering** — RGI of Tech, Bengaluru *(2018 – 2022)*
+🎓 **Post-Grad: AI & Data Analytics**  
+🕒 *Durham College, Toronto* | *Jan 2023 – Sept 2024*
 
-📜 **Certifications**  
-- ✅ Microsoft Azure Fundamentals (AZ-900)  
-- 🧠 IBM Data Analyst – *in progress*  
-- 🤖 Microsoft Azure AI Fundamentals – *in progress*  
-- 🚀 Junior Data Analyst Program – NPower Canada (2025)
+🎓 **Bachelor's in Computer Science & Engineering**  
+🏫 *Rajiv Gandhi Institute of Technology, Bengaluru* | *2018–2022*
 
----
-
-### 🌟 Projects That Make Me Proud
-
-#### 🧃 Coffee Cup Churn Dashboard
-- 📉 Analyzed churn patterns; identified 20% loss due to inventory issues  
-- 📊 Created Tableau dashboard with KPIs & customer insights  
-- 👥 Led a team of 4 for technical delivery and design  
-
-#### 📶 Telecom Comparison System
-- 🔎 Built a full-stack app comparing telecom plans & coverage  
-- 🔐 Used Django to build secure query-based insights  
-- 📈 Increased UX engagement by 30%  
-
-#### 🥛 Dairy Sales Dashboard (Laravel + Firebase)
-- 🧮 Built real-time sales tracking & PDF report automation  
-- 🌐 Increased mobile traffic by 25% with optimized UI  
-- 📝 Reduced manual work by 50% via Firebase integration
+📜 **Certifications:**
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- 🧠 IBM Data Analyst (in progress)
+- 🤖 Microsoft Azure AI Fundamentals (in progress)
+- 🎯 Junior Data Analyst – NPower Canada (2025)
 
 ---
 
-### 📫 Connect With Me
+### 🤝 Let’s Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simrah-ayan">
-    <img src="https://img.shields.io/badge/LinkedIn-SimrahAyan-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:simrahayan2611@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-simrahayan2611@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/Starscorpio">
-    <img src="https://img.shields.io/badge/GitHub-Starscorpio-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 💡 Motto
+### 🌈 Fun Motto:
+> *“Turning data into stories, and insights into impact.”* ✨📊💡
 
-> *“Turning data into stories, and insights into impact.”* ✨  
-> *Let’s make data beautiful and useful!*
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="150"/>
 </p>
