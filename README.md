@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack (At a Glance)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -29,6 +29,18 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
+
+#### 🧾 Detailed Tech Stack
+
+| Category         | Tools & Technologies                                                                 |
+|------------------|--------------------------------------------------------------------------------------|
+| **Languages**    | Python 🐍, SQL 💾, HTML/CSS 🎨                                                       |
+| **Libraries**    | Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash                                     |
+| **BI & Viz**     | Tableau 📊, Power BI 📈, IBM Cognos Analytics 📉, Excel 📘                            |
+| **Frameworks**   | Django 🌐, Laravel 🛠, Firebase 🔥                                                    |
+| **Cloud & AI**   | Azure (AZ-900 ✅), Azure AI (in progress) ☁️, IBM Watson tools                        |
+| **Tools**        | Jupyter Notebook 📒, VS Code 🖥, Trello 📋, Lucidchart 🧠, Canva 🎨                    |
+| **Soft Skills**  | Leadership 🌟, Communication 💬, Team Collaboration 👥, Problem-Solving 🧩            |
 
 ---
 
