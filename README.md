@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://https://github.com/simrahayan" width="100" alt="Tech Icon" />
-</p>
 
 <h1 align="center">
   <b>Hey there! 👋 I'm <span style="color:#F39C12;">Simrah Ayan Fathima</span></b>
