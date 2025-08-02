@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Starscorpio/SimScan/blob/main/gifs/hacker.png" width="100" alt="Tech Icon" />
+  <img src="https://https://github.com/simrahayan/SimScan/blob/main/gifs/hacker.png" width="100" alt="Tech Icon" />
 </p>
 
 <h1 align="center">
